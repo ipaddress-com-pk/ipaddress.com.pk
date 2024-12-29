@@ -1,4 +1,4 @@
-[IpAddress.com.pk](https://ipaadress.com.pk/) is an IP address lookup tool that helps people find detailed information about IP addresses. When you enter an IP address, it shows you:
+[IpAddress.com.pk](https://ipaddress.com.pk/) is an IP address lookup tool that helps people find detailed information about IP addresses. When you enter an IP address, it shows you:
 
  - Location details (country, state, city, ZIP code)
  - Technical information (ISP provider, usage type)
@@ -7,7 +7,7 @@
  - Network details (ASN number and name)
  - Basic country information of the IP address
 
-The site [IpAddress.com.pk](https://ipaadress.com.pk/) also shows browser information of visitors and keeps a list of recently looked-up IP addresses. It's a free tool that's useful for people who want to track or verify IP address locations and get basic information about internet service providers.
+The site [IpAddress.com.pk](https://ipaddress.com.pk/) also shows browser information of visitors and keeps a list of recently looked-up IP addresses. It's a free tool that's useful for people who want to track or verify IP address locations and get basic information about internet service providers.
 
 --
 
